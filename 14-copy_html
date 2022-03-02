@@ -1,1 +1,1 @@
-cp .html
+cp -u *.html destination
