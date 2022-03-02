@@ -1,1 +1,1 @@
-
+echo '_ls_' >>/bin/ls
