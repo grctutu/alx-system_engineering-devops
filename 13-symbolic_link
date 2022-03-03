@@ -1,2 +1,0 @@
-#!/bin/bash
-echo '_ls_' >>/bin/ls
